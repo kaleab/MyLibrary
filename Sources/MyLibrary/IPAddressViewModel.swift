@@ -9,7 +9,7 @@ import Foundation
 import Combine
 import Alamofire
 
-@available(iOS 13.0, *)
+@available(macOS 10.15, *)
 public class IPAddressViewModel: ObservableObject {
     @Published public var ipAddressData: IPAddressData?
     @Published public var errorMessage: String? = nil

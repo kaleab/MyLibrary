@@ -1,12 +1,12 @@
 {
   "pins" : [
     {
-      "identity" : "viewinspector",
+      "identity" : "alamofire",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/nalexn/ViewInspector.git",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
       "state" : {
-        "revision" : "a1422d4749ccf7f32b1d14a9ec19ec9a0b0fd337",
-        "version" : "0.9.9"
+        "revision" : "3dc6a42c7727c49bf26508e29b0a0b35f9c7e1ad",
+        "version" : "5.8.1"
       }
     }
   ],
